@@ -4,7 +4,7 @@ languages:
 - javascript
 products:
 - azure
-description: "This Node.js application is for use in demonstrating scenarios for Azure Container Registry Tasks."
+description: "This Node.js application is for use in demonstrating scenarios for Azure Container# Registry Tasks."
 urlFragment: acr-build-helloworld-node
 ---
 
